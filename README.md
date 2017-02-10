@@ -4,3 +4,4 @@ This project was a simple creation of an Instagram-esque app following the tutor
 
 The site allows you to register, login, logout, and post pictures.
 
+Here is a link to some screenshots show the functionality: http://imgur.com/a/oogpL
